@@ -226,7 +226,7 @@ a:hover {
 /* Content */
 
 #content {
-	float: left;
+
 	width: 660px;
 	padding: 0px 0px 0px 0px;
 }
@@ -486,15 +486,7 @@ a:hover {
 }
 
 #banner {
-	margin: 0px auto;
-	width: 1000px;
-	height: 440px;
-	background: url(images/img03.png) no-repeat left bottom;
-}
 
-#banner .content img {
-	background: #000000;
-	border-radius: 15px;
 }
 
 .list-style1 {
